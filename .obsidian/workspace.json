@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d89b25b1d4e73e4d",
+        "id": "97ae76892a4e8793",
         "type": "tabs",
         "children": [
           {
-            "id": "849718ea7ee446ad",
+            "id": "9db59a67ea63f8f5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -135,9 +135,21 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "849718ea7ee446ad",
-  "lastOpenFiles": []
+  "active": "9db59a67ea63f8f5",
+  "lastOpenFiles": [
+    "Work/2023-01-04 Partner Kickoff.md",
+    "Work/2023-01-02.md",
+    "Work/2023-01-06 Weekly Summary.md",
+    "Work/2023-01-06.md",
+    "Work/BDD-3 Credibly drive sustainable best practices.md",
+    "Reading/2022 Reading List.md",
+    "Reading/mcraney-2022-how-minds-change.md",
+    "Work/Current Issues Task List.md",
+    "Work/2023-01-03.md",
+    "Work/2023-01-04.md"
+  ]
 }
