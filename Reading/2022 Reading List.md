@@ -1,5 +1,5 @@
 ```dataviewjs
-let bookGroups = dv.pages('#book and "Notes"')
+let bookGroups = dv.pages('#book and "Reading"')
 	.where(p => p.start_date.year == 2022 || p.complete_date.year == 2022)
 	.groupBy(p => p.genre)
 
